@@ -1,0 +1,19 @@
+{
+  "name": "cit262-enh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enh-byui/cit262-24.git"
+  },
+  "author": "ENH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enh-byui/cit262-24/issues"
+  },
+  "homepage": "https://github.com/enh-byui/cit262-24#readme"
+}
